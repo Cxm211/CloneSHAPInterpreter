@@ -9,5 +9,5 @@ Results include spreadsheets and files containing results of correlation analysi
 
 Code includes the code for SHAP interpretation. We have also uploaded the code that performs the human-machine interpretation correlation analysis and statement types analysis. Some helper code to aid the analysis is also uploaded.
 
-The Java folder contains all data, code, and results for the Java clone pairs. For further instructions on how to replicate please refer to README inside the Java folder.
+The Java folder contains all data, code, and results for the Java clone pairs. For further instructions on how to replicate please refer to README inside the Java/Code/SHAP Interpreter folder.
 The Python folder contains all data, code, and results for the Python clone pairs. For further instructions on how to replicate please refer to README inside the Python folder.
